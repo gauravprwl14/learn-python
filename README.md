@@ -13,6 +13,10 @@ A comprehensive guide from beginner to tech lead level Python development.
 3. [Data Structures](03_data_structures/README.md)
 4. [Advanced Concepts](04_advanced_concepts/README.md)
 
+### Additional Resources
+
+- [Learning Resources](resources.md)
+
 ### Core Python
 
 1. [Python Fundamentals](01_python_fundamentals/)

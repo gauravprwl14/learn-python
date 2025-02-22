@@ -30,7 +30,7 @@
    ```
 3. Initialize conda for your shell:
    ```bash
-   conda init "$(basename "${SHELL}")"...existing code...
+   conda init "$(basename "${SHELL}")"
    ```
 4. Update conda to the latest version:
 
@@ -130,6 +130,7 @@
 - [Official Conda Documentation](https://docs.conda.io/)
 - [Conda Cheat Sheet](https://docs.conda.io/projects/conda/en/latest/user-guide/cheatsheet.html)
 - [Conda-forge](https://conda-forge.org/)
+
   ```
 
   ```

@@ -1,0 +1,25 @@
+name: data_science
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.9
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scikit-learn
+  - jupyter
+  - jupyterlab
+  - ipywidgets
+  - plotly
+  - pandas-profiling
+  - statsmodels
+  - scipy
+  - pip
+  - pip:
+    - nbconvert
+    - kaggle
+    - yellowbrick
+variables:
+  PYTHONPATH: ${CONDA_PREFIX}/lib/python3.9/site-packages

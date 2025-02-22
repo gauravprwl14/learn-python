@@ -12,6 +12,17 @@
 | List Dependencies | `conda list` | Show all packages in current env |
 | Set Environment Var | `conda env config vars set MY_VAR=value` | Set environment variable |
 | Create with Packages | `conda create --name datasci python numpy pandas` | Create env with specific packages |
+| List Environments | `conda env list` | Show all conda environments |
+| Activate Environment | `conda activate myenv` | Switch to specified environment |
+| Deactivate Environment | `conda deactivate` | Return to base environment |
+| Create Environment | `conda create --name myenv python=3.9` | Create new environment with Python |
+| Create from YAML | `conda env create -f environment.yml` | Create environment from YAML file |
+| Export Environment | `conda env export > environment.yml` | Export environment to YAML |
+| Remove Environment | `conda env remove --name myenv` | Delete an environment |
+| Clone Environment | `conda create --name newenv --clone existingenv` | Copy existing environment |
+| List Dependencies | `conda list` | Show all packages in current env |
+| Set Environment Var | `conda env config vars set MY_VAR=value` | Set environment variable |
+| Create with Packages | `conda create --name datasci python numpy pandas` | Create env with specific packages |
 
 ## Creating Environments
 
@@ -28,6 +39,35 @@ conda env create -f environment.yml
 ### Clone an Existing Environment
 ```bash
 conda create --name newenv --clone existingenv
+```
+
+## Daily Environment Usage
+
+### List All Environments
+```bash
+conda env list
+# or
+conda info --envs
+```
+
+### Activate Environment
+```bash
+conda activate myenv
+```
+
+### Deactivate Current Environment
+```bash
+conda deactivate
+```
+
+### Check Current Active Environment
+```bash
+conda info --active
+```
+
+### View Environment Location
+```bash
+conda info
 ```
 
 ## Managing Environments

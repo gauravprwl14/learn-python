@@ -86,13 +86,14 @@
 
 ## GitHub Repositories
 
-| Repository                                                                          | Description             | Stars | Rating     | Focus      |
-| ----------------------------------------------------------------------------------- | ----------------------- | ----- | ---------- | ---------- |
-| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Free learning resources | 250k+ | ⭐⭐⭐⭐⭐ | Learning   |
-| [Awesome Python](https://github.com/vinta/awesome-python)                           | Python resources        | 140k+ | ⭐⭐⭐⭐⭐ | Python     |
-| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)      | Interview preparation   | 80k+  | ⭐⭐⭐⭐⭐ | Interview  |
-| [Public APIs](https://github.com/public-apis/public-apis)                           | API collection          | 200k+ | ⭐⭐⭐⭐⭐ | APIs       |
-| [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)          | DS & Algorithms         | 150k+ | ⭐⭐⭐⭐⭐ | Algorithms |
+| Repository                                                                          | Description                      | Stars | Rating     | Focus      |
+| ----------------------------------------------------------------------------------- | -------------------------------- | ----- | ---------- | ---------- |
+| [Free Programming Books](https://github.com/EbookFoundation/free-programming-books) | Free learning resources          | 250k+ | ⭐⭐⭐⭐⭐ | Learning   |
+| [The Algorithms - Python](https://github.com/TheAlgorithms/Python)                  | Python algorithm implementations | 160k+ | ⭐⭐⭐⭐⭐ | Algorithms |
+| [Awesome Python](https://github.com/vinta/awesome-python)                           | Python resources                 | 140k+ | ⭐⭐⭐⭐⭐ | Python     |
+| [Tech Interview Handbook](https://github.com/yangshun/tech-interview-handbook)      | Interview preparation            | 80k+  | ⭐⭐⭐⭐⭐ | Interview  |
+| [Public APIs](https://github.com/public-apis/public-apis)                           | API collection                   | 200k+ | ⭐⭐⭐⭐⭐ | APIs       |
+| [JavaScript Algorithms](https://github.com/trekhleb/javascript-algorithms)          | DS & Algorithms                  | 150k+ | ⭐⭐⭐⭐⭐ | Algorithms |
 
 ## Blogs and Newsletters
 

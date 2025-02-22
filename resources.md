@@ -55,13 +55,14 @@
 
 ## Interview Preparation
 
-| Resource                                     | Description                  | Focus Area         | Rating     | Notes                |
-| -------------------------------------------- | ---------------------------- | ------------------ | ---------- | -------------------- |
-| [LeetCode](https://leetcode.com)             | Coding problems and contests | Algorithms         | ⭐⭐⭐⭐⭐ | Must-use             |
-| [HackerRank](https://www.hackerrank.com)     | Coding challenges            | General            | ⭐⭐⭐⭐   | Good for beginners   |
-| [AlgoExpert](https://www.algoexpert.io)      | Curated coding problems      | Algorithms         | ⭐⭐⭐⭐   | Paid but worth it    |
-| [Pramp](https://www.pramp.com)               | Mock interviews              | Interview Practice | ⭐⭐⭐⭐   | Free peer interviews |
-| [InterviewBit](https://www.interviewbit.com) | Structured interview prep    | Full Interview     | ⭐⭐⭐⭐   | Comprehensive        |
+| Resource                                                                                                     | Description                        | Focus Area         | Rating     | Notes                                  |
+| ------------------------------------------------------------------------------------------------------------ | ---------------------------------- | ------------------ | ---------- | -------------------------------------- |
+| [LeetCode](https://leetcode.com)                                                                             | Coding problems and contests       | Algorithms         | ⭐⭐⭐⭐⭐ | Must-use                               |
+| [LeetCode Questions CompanyWise](https://github.com/krishnadey30/LeetCode-Questions-CompanyWise/tree/master) | Company-specific LeetCode problems | Company Problems   | ⭐⭐⭐⭐   | Great for targeting specific companies |
+| [HackerRank](https://www.hackerrank.com)                                                                     | Coding challenges                  | General            | ⭐⭐⭐⭐   | Good for beginners                     |
+| [AlgoExpert](https://www.algoexpert.io)                                                                      | Curated coding problems            | Algorithms         | ⭐⭐⭐⭐   | Paid but worth it                      |
+| [Pramp](https://www.pramp.com)                                                                               | Mock interviews                    | Interview Practice | ⭐⭐⭐⭐   | Free peer interviews                   |
+| [InterviewBit](https://www.interviewbit.com)                                                                 | Structured interview prep          | Full Interview     | ⭐⭐⭐⭐   | Comprehensive                          |
 
 ## Coding Practice
 

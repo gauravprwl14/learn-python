@@ -1,0 +1,71 @@
+python-learning-path/
+├── 01_python_fundamentals/
+│   ├── README.md
+│   ├── basic/
+│   │   ├── 01_introduction/
+│   │   ├── 02_data_types/
+│   │   └── 03_control_flow/
+│   └── advanced/
+│       ├── 01_memory_management/
+│       ├── 02_gil_and_concurrency/
+│       └── 03_performance_optimization/
+├── 02_object_oriented/
+│   ├── README.md
+│   ├── basic/
+│   │   ├── 01_classes_objects/
+│   │   ├── 02_inheritance/
+│   │   └── 03_polymorphism/
+│   └── advanced/
+│       ├── 01_metaclasses/
+│       ├── 02_descriptors/
+│       └── 03_abstract_base_classes/
+├── 03_data_structures/
+│   ├── README.md
+│   ├── basic/
+│   │   ├── 01_lists_tuples/
+│   │   ├── 02_dictionaries/
+│   │   └── 03_sets/
+│   └── advanced/
+│       ├── 01_custom_collections/
+│       ├── 02_memory_views/
+│       └── 03_concurrent_structures/
+├── 04_algorithms/
+│   ├── README.md
+│   ├── basic/
+│   │   ├── 01_sorting/
+│   │   ├── 02_searching/
+│   │   └── 03_recursion/
+│   └── advanced/
+│       ├── 01_dynamic_programming/
+│       ├── 02_graph_algorithms/
+│       └── 03_optimization/
+├── 05_design_patterns/
+│   ├── README.md
+│   ├── basic/
+│   │   ├── 01_singleton/
+│   │   ├── 02_factory/
+│   │   └── 03_observer/
+│   └── advanced/
+│       ├── 01_architectural_patterns/
+│       ├── 02_enterprise_patterns/
+│       └── 03_distributed_patterns/
+├── 06_system_design/
+│   ├── README.md
+│   ├── basic/
+│   │   ├── 01_components/
+│   │   ├── 02_apis/
+│   │   └── 03_databases/
+│   └── advanced/
+│       ├── 01_distributed_systems/
+│       ├── 02_scalability/
+│       └── 03_microservices/
+└── 07_interview_prep/
+    ├── README.md
+    ├── basic/
+    │   ├── 01_coding_problems/
+    │   ├── 02_system_design/
+    │   └── 03_best_practices/
+    └── advanced/
+        ├── 01_architecture_problems/
+        ├── 02_scalability_challenges/
+        └── 03_case_studies/ 

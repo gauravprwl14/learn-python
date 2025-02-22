@@ -68,4 +68,11 @@ python-learning-path/
     └── advanced/
         ├── 01_architecture_problems/
         ├── 02_scalability_challenges/
-        └── 03_case_studies/ 
+        └── 03_case_studies/
+├── tools/
+│   └── conda_guide/
+│       ├── README.md
+│       ├── cheatsheet.md
+│       └── examples/
+│           ├── environment_examples.yml
+│           └── common_workflows.md 

@@ -1,5 +1,18 @@
 # Conda Environment Management
 
+## Quick Reference
+
+| Operation | Command | Description |
+|-----------|---------|-------------|
+| Create Environment | `conda create --name myenv python=3.9` | Create new environment with Python |
+| Create from YAML | `conda env create -f environment.yml` | Create environment from YAML file |
+| Export Environment | `conda env export > environment.yml` | Export environment to YAML |
+| Remove Environment | `conda env remove --name myenv` | Delete an environment |
+| Clone Environment | `conda create --name newenv --clone existingenv` | Copy existing environment |
+| List Dependencies | `conda list` | Show all packages in current env |
+| Set Environment Var | `conda env config vars set MY_VAR=value` | Set environment variable |
+| Create with Packages | `conda create --name datasci python numpy pandas` | Create env with specific packages |
+
 ## Creating Environments
 
 ### Create a New Environment
@@ -93,4 +106,3 @@ conda env export --no-builds > environment.yml
 
 # Create from environment file
 conda env create -f environment.yml
-```

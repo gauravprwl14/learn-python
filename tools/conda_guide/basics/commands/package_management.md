@@ -1,5 +1,19 @@
 # Package Management Commands
 
+## Quick Reference
+
+| Operation | Command | Description |
+|-----------|---------|-------------|
+| Install Package | `conda install package_name` | Install a single package |
+| Install Specific Version | `conda install package_name=1.2.3` | Install specific version of a package |
+| Install from Channel | `conda install --channel conda-forge package_name` | Install from specific channel |
+| Search Package | `conda search package_name` | Search for available packages |
+| List Packages | `conda list` | List installed packages |
+| Update Package | `conda update package_name` | Update a single package |
+| Remove Package | `conda remove package_name` | Remove a package |
+| Clean Packages | `conda clean --packages` | Remove unused packages |
+| Export Dependencies | `conda list --export > requirements.txt` | Export environment dependencies |
+
 ## Installing Packages
 
 ### Basic Package Installation
@@ -115,4 +129,3 @@ conda install --no-deps package_name
 ### Force Reinstall Package
 ```bash
 conda install --force-reinstall package_name
-```
